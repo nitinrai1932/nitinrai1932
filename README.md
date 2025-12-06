@@ -35,25 +35,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitinrai1932&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinrai1932&layout=compact&langs_count=8&theme=radical)username=nitinrai1932&layout=compact&langs_count=8&theme=radical" />
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitinrai1932&theme=react-dark&bg_color=0D1117&hide_border=true)
 
 </div>
 
