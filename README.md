@@ -88,7 +88,7 @@
 
 <div align="center">
 
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-%23000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/nitinrai1932)
+[![Twitter/X](https://img.shields.io/badge/Twitter/X-%23000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/nitinrai9321)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00?style=for-the-badge&logo=Snapchat&logoColor=black)](https://www.snapchat.com/add/nitinrai1932)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nitinrai1720)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitinrai1932@gmail.com)
