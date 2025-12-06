@@ -8,7 +8,7 @@
 <div align="center">
 
 [![AI Prompt Generator](https://github-readme-stats.vercel.app/api/pinned/?username=nitinrai1932&repo=ai-prompt-generator&theme=radical)](https://github.com/nitinrai1932/ai-prompt-generator)
-[![Video Flipbook](https://github-readme-stats.vercel.app/api/pinned/?username=nitinrai1932&repo=pdf-flipbook&theme=radical)](https://github.com/nitinrai1932/pdf-flipbook)
+
 [![Snapchat Filter](https://github-readme-stats.vercel.app/api/pinned/?username=nitinrai1932&repo=lens-studio-effects&theme=radical)](https://github.com/nitinrai1932/lens-studio-effects)
 
 </div>
